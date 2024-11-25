@@ -5,9 +5,10 @@
 body {
     background-color: #e5dbd2;
     background-image: url(Images/ON-logo3.png);
-    background-position: 70% 215%;
+    background-position: 70% 170%;
     background-size: 900px;
     background-repeat: no-repeat;
+    background-position-x: right;
 }
 .Kontakt-info {
     text-align: center;
